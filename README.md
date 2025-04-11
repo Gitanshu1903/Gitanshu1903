@@ -1,4 +1,4 @@
-# 👨‍💻 Gitanshu Vaghasiya
+# <img src="https://github.com/user-attachments/assets/091e7182-2a55-43dd-9c9a-0ced1b53b57e" width="30" /> Gitanshu Vaghasiya
 
 Machine Learning Engineer and Data Scientist passionate about extracting meaningful patterns from complex datasets. Experienced in developing predictive models, implementing data pipelines, and creating ML-powered applications that solve real-world problems. Constantly exploring new algorithms and technologies to push the boundaries of what's possible with AI.
 
